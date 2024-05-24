@@ -28,4 +28,4 @@
 
 #### Conclusion:
 
-**Deep Vehicle Inspect** is a cutting-edge project that leverages deep learning to provide a robust and accurate solution for vehicle damage detection. By employing a CNN model, the system significantly enhances the accuracy and reliability of damage assessments compared to traditional methods. Its design prioritizes efficiency and real-world applicability, making it a valuable tool for enhancing automotive safety and reliability.# Deep-Vehicle-Inspect
+**Deep Vehicle Inspect** is a cutting-edge project that leverages deep learning to provide a robust and accurate solution for vehicle damage detection. By employing a CNN model, the system significantly enhances the accuracy and reliability of damage assessments compared to traditional methods. Its design prioritizes efficiency and real-world applicability, making it a valuable tool for enhancing automotive safety and reliability.
